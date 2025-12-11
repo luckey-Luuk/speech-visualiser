@@ -1,3 +1,8 @@
-librosa
 torch
 numpy
+opencv-python
+pillow
+pathlib
+scikit-learn
+tdqm
+matplotlib
