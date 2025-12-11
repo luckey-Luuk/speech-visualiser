@@ -1,7 +1,7 @@
 Github project for unpublished paper: Phoneme Classification of Real Time Magnetic Resonance Imaging Using 3D Convolutional Neural Network
 
 Project by: 
-Thomas Vroegop, Simone de Vos Burchart and Justin Gruijters
+Thomas, Simone and Justin
 MSc students Leiden University
 Course: Audio Processing and Indexing 2025
 
